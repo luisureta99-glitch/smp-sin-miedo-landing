@@ -379,7 +379,7 @@ a { color: inherit; text-decoration: none; }
     min-height: 360px;
     overflow: hidden;
   }
-  .hero-photo { object-position: 22% 20%; }
+  .hero-photo { object-position: 50% 8%; }
   .hero-scrim {
     background: linear-gradient(
       to top,
