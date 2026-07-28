@@ -14,3 +14,6 @@ SMP-landing-para-feedback.html
 # OS junk
 Thumbs.db
 .DS_Store
+
+# Local Netlify folder
+.netlify

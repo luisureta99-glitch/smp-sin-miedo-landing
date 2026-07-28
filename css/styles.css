@@ -564,6 +564,17 @@ a { color: inherit; text-decoration: none; }
   height: 100%;
   object-fit: cover;
 }
+.activity-card__photo--placeholder {
+  background: linear-gradient(135deg, #7d3ba3 0%, var(--color-primary) 55%, var(--color-primary-dark) 100%);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.activity-card__photo--placeholder svg {
+  width: 32px;
+  height: 32px;
+  color: rgba(255, 255, 255, 0.6);
+}
 .activity-card__body { padding: var(--space-sm); }
 .activity-card__date {
   display: block;

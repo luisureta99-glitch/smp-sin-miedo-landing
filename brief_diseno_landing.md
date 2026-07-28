@@ -31,6 +31,8 @@ El vecino escanea una pregunta y debe caer directo en su respuesta.
 
 **Consecuencia de diseño:** cada sección debe funcionar como entrada independiente. Quien cae a media página tiene que entender dónde está y qué hacer, sin haber leído lo anterior.
 
+**Nota:** además de las anclas de afiches, existe el bloque `#actividad` (Así estamos en la calle) sin QR propio — vive en el flujo natural de la página, entre las propuestas y la biografía de Luis, como evidencia de campaña activa.
+
 ---
 
 ## 3. IDENTIDAD VISUAL
@@ -103,9 +105,9 @@ El vecino escanea una pregunta y debe caer directo en su respuesta.
 **Bullets:**
 - **Cámaras + sistema de inteligencia, no promesas.** Vamos a implementar las herramientas para cercar a la delincuencia: cámaras integradas con inteligencia artificial, información cruzada y denuncias que sí llegan. Se acabó el "no hay pruebas": vamos a ponerlas sobre la mesa.
 - **Serenazgo persiguiendo mafias, no ambulantes.** Se acabó el operativo que decomisa verduras mientras los extorsionadores caminan tranquilos.
-- **Un ex policía en el equipo.** Ulises Aguilar sabe cómo operan y está del lado de los vecinos.
+- **Veinte años en la DIRINCRI, en el equipo.** Ulises Aguilar dedicó dos décadas a requisitorias, capturas y colaboración eficaz — atrapando a quienes el sistema no lograba agarrar. Combatió al terrorismo cara a cara en Huancavelica. 39 años de servicio, cuatro condecoraciones, hoja limpia. Vive en SMP hace más de 25 años.
 
-**Cierre:** Luis es ingeniero. Ulises fue policía. Inteligencia y firmeza, juntas.
+**Cierre:** Luis es ingeniero. Ulises tiene 20 años en la DIRINCRI. Inteligencia y firmeza, juntas.
 
 **CTA (contorno):** Si estás harto de vivir encerrado en tu propia casa, pásale esto a alguien más.
 
@@ -185,6 +187,26 @@ El vecino escanea una pregunta y debe caer directo en su respuesta.
 
 ---
 
+### BLOQUE 4.5 — ASÍ ESTAMOS EN LA CALLE `#actividad`
+*Sin foto protagónica única. 3-4 tarjetas pequeñas en fila o grilla, cada una con foto miniatura.*
+*Contenido vivo: actualizado semanalmente por el responsable de comunicación. NO aloja video ni álbumes — cada tarjeta enlaza a la publicación real en redes (Facebook/Instagram), para mantener la página liviana.*
+
+**Titular:** Así estamos en la calle.
+
+**Subtítulo:** No te lo contamos — te lo mostramos.
+
+**Formato de cada tarjeta:**
+[foto miniatura] + [fecha] + [una línea de la actividad] + botón "Ver más" → enlace a la publicación en redes
+
+**Ejemplos de tarjetas (formato, no contenido final):**
+- Recorrido en Mercado San Antonio — [fecha]
+- Presentación del plan económico en Caquetá — [fecha]
+- Reunión con comité de mototaxistas — [fecha]
+
+**CTA:** Síguenos para no perderte nada.
+
+---
+
 ### BLOQUE 5 — QUIÉN ES LUIS `#luis`
 *Imagen: foto 4 (retrato personal, más cálido)*
 
@@ -198,7 +220,7 @@ El vecino escanea una pregunta y debe caer directo en su respuesta.
 
 **Bullets:**
 - **Un ingeniero que entiende de sistemas, no de repartir favores.** Por eso nuestra propuesta de seguridad es tecnología e información, no promesas de mano dura.
-- **Un ex policía que conoce la calle.** Ulises Aguilar sabe cómo operan las bandas por dentro. Esta vez está del lado de los vecinos.
+- **Veinte años en la DIRINCRI, conociendo la calle de verdad.** Ulises Aguilar combatió al terrorismo en Huancavelica, se retiró tras 39 años de servicio con cuatro condecoraciones y hoja limpia, y vive en SMP hace más de 25 años.
 - **Una lista de gente que trabaja.** No somos políticos de carrera turnándose el municipio. Somos vecinos de SMP que decidimos meternos.
 
 **Cierre:** Nunca hemos gobernado este distrito. Te traemos lo que nunca te entregaron: un plan pensado para los vecinos.

@@ -60,11 +60,19 @@
       return d.getDate() + " " + MESES[d.getMonth()];
     }
 
+    var PLACEHOLDER_ICON =
+      '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">' +
+      '<path d="M4 8h3l1.5-2h7L17 8h3a1 1 0 011 1v9a1 1 0 01-1 1H4a1 1 0 01-1-1V9a1 1 0 011-1z"/>' +
+      '<circle cx="12" cy="13" r="3.5"/></svg>';
+
     ACTIVIDADES.forEach(function (item) {
       var card = document.createElement("article");
       card.className = "activity-card";
+      var photoHtml = item.foto
+        ? '<div class="activity-card__photo"><img src="' + item.foto + '" alt="" loading="lazy"></div>'
+        : '<div class="activity-card__photo activity-card__photo--placeholder">' + PLACEHOLDER_ICON + "</div>";
       card.innerHTML =
-        '<div class="activity-card__photo"><img src="' + item.foto + '" alt="" loading="lazy"></div>' +
+        photoHtml +
         '<div class="activity-card__body">' +
         '<time class="activity-card__date">' + formatFecha(item.fecha) + "</time>" +
         '<p class="activity-card__text"></p>' +
