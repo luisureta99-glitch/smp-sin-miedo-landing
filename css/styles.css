@@ -386,7 +386,7 @@ a { color: inherit; text-decoration: none; }
     position: relative;
     inset: auto;
     height: auto;
-    aspect-ratio: 1920 / 1281;
+    aspect-ratio: 21 / 9;
     overflow: hidden;
   }
   .hero-photo {
