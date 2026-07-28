@@ -18,7 +18,7 @@
  */
 var ACTIVIDADES = [
   {
-    foto: null,
+    foto: "img/actividad-mercado-san-antonio.png",
     fecha: "2026-07-27",
     texto: "Nuestro equipo visita el Mercado San Antonio.",
     link: "#" // PENDIENTE: URL del post de Facebook
@@ -30,7 +30,7 @@ var ACTIVIDADES = [
     link: "#" // PENDIENTE: URL del post de Facebook
   },
   {
-    foto: null,
+    foto: "img/actividad-desparasitacion.png",
     fecha: "2026-07-27",
     texto: "Próxima campaña de desparasitación de mascotas.",
     link: "#" // PENDIENTE: URL del post de Facebook
