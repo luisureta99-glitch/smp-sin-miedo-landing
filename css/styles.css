@@ -484,9 +484,9 @@ a { color: inherit; text-decoration: none; }
 }
 .photo-frame--avatar img {
   position: absolute;
-  height: 260px;
+  height: 293px;
   width: auto;
-  top: -36px;
+  top: -88px;
   left: 50%;
   transform: translateX(-50%);
   max-width: none;
