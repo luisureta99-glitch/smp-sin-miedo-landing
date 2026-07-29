@@ -17,3 +17,6 @@ Thumbs.db
 
 # Local Netlify folder
 .netlify
+
+# Archivo de fotos y documentos fuente sin usar en el sitio
+ARchivo/

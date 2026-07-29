@@ -21,18 +21,18 @@ var ACTIVIDADES = [
     foto: "img/actividad-mercado-san-antonio.png",
     fecha: "2026-07-27",
     texto: "Nuestro equipo visita el Mercado San Antonio.",
-    link: "#" // PENDIENTE: URL del post de Facebook
+    link: "https://www.facebook.com/LuisFloresSMP"
   },
   {
-    foto: null,
+    foto: "img/actividad-lanzamiento-web.jpg",
     fecha: "2026-07-27",
     texto: "Lanzamos nuestra página web: smpsinmiedo.com",
-    link: "#" // PENDIENTE: URL del post de Facebook
+    link: "https://www.facebook.com/LuisFloresSMP"
   },
   {
     foto: "img/actividad-desparasitacion.png",
     fecha: "2026-07-27",
     texto: "Próxima campaña de desparasitación de mascotas.",
-    link: "#" // PENDIENTE: URL del post de Facebook
+    link: "https://www.facebook.com/LuisFloresSMP"
   }
 ];
