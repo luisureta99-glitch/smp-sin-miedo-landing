@@ -24,7 +24,7 @@ var ACTIVIDADES = [
     link: "https://www.facebook.com/LuisFloresSMP"
   },
   {
-    foto: "img/actividad-lanzamiento-web.jpg",
+    foto: "img/actividad-lanzamiento-web.png",
     fecha: "2026-07-27",
     texto: "Lanzamos nuestra página web: smpsinmiedo.com",
     link: "https://www.facebook.com/LuisFloresSMP"
