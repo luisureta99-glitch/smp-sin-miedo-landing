@@ -18,6 +18,12 @@
  */
 var ACTIVIDADES = [
   {
+    foto: "img/actividad-presentacion-candidatos.png",
+    fecha: "2026-08-17",
+    texto: "Partido Morado presentó a sus candidatos para Lima y provincias.",
+    link: "https://www.facebook.com/share/p/1GMSP2H1Ff/"
+  },
+  {
     foto: "img/actividad-mercado-san-antonio.png",
     fecha: "2026-07-27",
     texto: "Nuestro equipo visita el Mercado San Antonio.",
